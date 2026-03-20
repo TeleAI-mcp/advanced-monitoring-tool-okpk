@@ -1,2 +1,3 @@
-# advanced-monitoring-tool-okpk
+# Advanced Monitoring Tool Okpk
+
 A repository to test GitHub automation for issue management.
